@@ -30,6 +30,8 @@ figure {
   border-radius: 9px;
   display: block;
   object-fit: cover;
+  object-position: top center;
+
 }
 
 .gallery-pic figcaption {
